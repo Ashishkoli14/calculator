@@ -14,7 +14,7 @@ def multiply(x, y):
 
 # This function divides two numbers
 def divide(x, y):
-    return x % y
+    return x / y  // it should be slash as it is division
 
 
 print("Select operation.")
